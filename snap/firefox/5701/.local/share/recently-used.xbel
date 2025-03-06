@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/miracle/Downloads/mongodb-org-server_8.0.4_amd64.deb" added="2025-02-13T03:02:14.663538Z" modified="2025-02-13T03:02:14.663567Z" visited="2025-02-13T03:02:14.663542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-02-13T03:02:14.663551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/Untitled%20document.pdf" added="2025-02-13T05:38:55.553546Z" modified="2025-02-20T05:11:47.130420Z" visited="2025-02-13T05:38:55.553547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-02-20T05:11:47.130415Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2).zip" added="2025-02-24T06:30:23.390678Z" modified="2025-02-24T06:30:23.390684Z" visited="2025-02-24T06:30:23.390679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-02-24T06:30:23.390681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/smallfp_fixed.c" added="2025-02-24T07:02:16.952476Z" modified="2025-02-24T07:02:16.952485Z" visited="2025-02-24T07:02:16.952477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-02-24T07:02:16.952480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/Makefile_fixed" added="2025-02-24T07:02:20.895392Z" modified="2025-02-24T07:02:20.895406Z" visited="2025-02-24T07:02:20.895394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-02-24T07:02:20.895399Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/i222676_C_Lab2.zip" added="2025-02-27T03:53:00.862809Z" modified="2025-02-27T03:53:00.862836Z" visited="2025-02-27T03:53:00.862812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-02-27T03:53:00.862821Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

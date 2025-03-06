@@ -1,0 +1,44 @@
+Install React Commands:
+1.
+sudo npm install -g create-react-app
+2.
+create-react-app my-react-app
+3.
+cd my-react-app
+4.
+npm start
+
+5.
+if issue:
+npm install web-vitals
+npm start
+=======================================
+Install Nodejs Commands:
+1.
+sudo apt update
+2.
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+3.
+sudo apt install -y nodejs
+4.
+node -v
+npm -v
+=======================================
+Install MongoDB 
+1.
+wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo gpg --dearmor -o /usr/share/keyrings/mongodb-archive-keyring.gpg
+2.
+echo "deb [signed-by=/usr/share/keyrings/mongodb-archive-keyring.gpg] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
+3.
+sudo apt update
+4.
+sudo apt install -y mongodb-org
+5.
+sudo systemctl start mongod
+6.
+sudo systemctl enable mongod
+7.
+mongosh
+
+
+

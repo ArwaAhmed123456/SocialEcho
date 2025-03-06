@@ -1,0 +1,12 @@
+ID:
+172.16.136.91 
+===========================
+1. go to frontend folder
+   -------------------------
+    cd client
+    sudo npm run build
+    cp -r dist/* /var/www/html
+   ---------------------------
+2. request pass to port 80
+   ---------------------------
+   ProxyPass / http://localhost:3000/

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/miracle/Install%20React%20Commands.txt" added="2025-02-12T19:55:21.949487Z" modified="2025-02-12T19:55:21.949498Z" visited="2025-02-12T19:55:21.949489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-12T19:55:21.949492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/mongodb-org-server_8.0.4_amd64.deb" added="2025-02-13T03:03:10.229428Z" modified="2025-02-13T03:03:10.229440Z" visited="2025-02-13T03:03:10.229430Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_snap-store.desktop /snap/bin/snap-store %U&apos;" modified="2025-02-13T03:03:10.229433Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/SCD_Lab4_Cmds.txt" added="2025-02-13T04:17:43.010639Z" modified="2025-02-13T04:17:43.010652Z" visited="2025-02-13T04:17:43.010641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-13T04:17:43.010646Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-13%2010-02-03.png" added="2025-02-13T05:02:03.406326Z" modified="2025-02-13T05:02:03.406329Z" visited="2025-02-13T05:02:03.406327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T05:02:03.406327Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-13%2010-04-00.png" added="2025-02-13T05:04:00.185913Z" modified="2025-02-13T05:04:00.185916Z" visited="2025-02-13T05:04:00.185914Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T05:04:00.185914Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-13%2010-32-55.png" added="2025-02-13T05:32:55.708633Z" modified="2025-02-13T05:32:55.708637Z" visited="2025-02-13T05:32:55.708634Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T05:32:55.708634Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-13%2010-33-56.png" added="2025-02-13T05:33:56.609363Z" modified="2025-02-13T05:33:56.609367Z" visited="2025-02-13T05:33:56.609364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T05:33:56.609364Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-13%2010-37-32.png" added="2025-02-13T05:37:32.541383Z" modified="2025-02-13T05:37:32.541386Z" visited="2025-02-13T05:37:32.541384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-13T05:37:32.541384Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/i222676_SE_C_Lab4.pdf" added="2025-02-13T05:39:36.598922Z" modified="2025-02-13T05:40:04.786832Z" visited="2025-02-13T05:39:36.598924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-13T05:39:36.598927Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-13T05:39:36.631211Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2025-02-13T05:40:04.219720Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-02-13T05:40:04.786829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-07-04.png" added="2025-02-20T04:07:04.496518Z" modified="2025-02-20T04:07:04.496522Z" visited="2025-02-20T04:07:04.496519Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:07:04.496519Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-07-39.png" added="2025-02-20T04:07:39.214315Z" modified="2025-02-20T04:07:39.214318Z" visited="2025-02-20T04:07:39.214316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:07:39.214316Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-18-25.png" added="2025-02-20T04:18:25.238560Z" modified="2025-02-20T04:18:25.238564Z" visited="2025-02-20T04:18:25.238561Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:18:25.238561Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-24-54.png" added="2025-02-20T04:24:54.524526Z" modified="2025-02-20T04:24:54.524529Z" visited="2025-02-20T04:24:54.524526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:24:54.524526Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-35-09.png" added="2025-02-20T04:35:09.481119Z" modified="2025-02-20T04:35:09.481124Z" visited="2025-02-20T04:35:09.481120Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:35:09.481120Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-35-42.png" added="2025-02-20T04:35:42.860226Z" modified="2025-02-20T04:35:42.860230Z" visited="2025-02-20T04:35:42.860227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:35:42.860228Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-36-35.png" added="2025-02-20T04:36:35.228829Z" modified="2025-02-20T04:36:35.228832Z" visited="2025-02-20T04:36:35.228829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:36:35.228830Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-49-34.png" added="2025-02-20T04:49:34.574521Z" modified="2025-02-20T04:49:34.574524Z" visited="2025-02-20T04:49:34.574521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:49:34.574522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-51-34.png" added="2025-02-20T04:51:34.162989Z" modified="2025-02-20T04:51:34.162993Z" visited="2025-02-20T04:51:34.162990Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:51:34.162990Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2009-53-50.png" added="2025-02-20T04:53:50.913299Z" modified="2025-02-20T04:53:50.913304Z" visited="2025-02-20T04:53:50.913300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T04:53:50.913300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2010-09-57.png" added="2025-02-20T05:09:57.221480Z" modified="2025-02-20T05:09:57.221483Z" visited="2025-02-20T05:09:57.221480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T05:09:57.221480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-20%2010-10-37.png" added="2025-02-20T05:10:37.632309Z" modified="2025-02-20T05:10:37.632312Z" visited="2025-02-20T05:10:37.632309Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-20T05:10:37.632310Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2)/project2_handout-1/handout/src/smallfp.c" added="2025-02-24T06:35:44.410652Z" modified="2025-02-24T06:37:19.439741Z" visited="2025-02-24T06:35:44.410656Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-24T06:37:19.439706Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2)/project2_handout-1/handout/scripts/sample.muan" added="2025-02-24T06:38:29.215198Z" modified="2025-02-24T06:38:29.215219Z" visited="2025-02-24T06:38:29.215201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-24T06:38:29.215208Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2)/project2_handout-1/handout/scripts/help.muan" added="2025-02-24T06:38:39.861940Z" modified="2025-02-24T06:38:39.861964Z" visited="2025-02-24T06:38:39.861944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-24T06:38:39.861952Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-24%2011-44-55.png" added="2025-02-24T06:44:55.774161Z" modified="2025-02-24T06:44:55.774168Z" visited="2025-02-24T06:44:55.774162Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-24T06:44:55.774163Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-24%2011-45-12.png" added="2025-02-24T06:45:12.869421Z" modified="2025-02-24T06:45:12.869432Z" visited="2025-02-24T06:45:12.869422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-24T06:45:12.869423Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/smallfp_fixed.c" added="2025-02-24T07:02:30.217797Z" modified="2025-02-24T07:02:30.217817Z" visited="2025-02-24T07:02:30.217800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-24T07:02:30.217807Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/Makefile_fixed" added="2025-02-24T07:02:45.517776Z" modified="2025-02-24T07:02:45.517794Z" visited="2025-02-24T07:02:45.517778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-24T07:02:45.517784Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2)/project2_handout-1/handout/Makefile" added="2025-02-24T07:03:10.055920Z" modified="2025-02-24T07:03:10.055941Z" visited="2025-02-24T07:03:10.055922Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-24T07:03:10.055930Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-27%2009-17-31.png" added="2025-02-27T04:17:31.914746Z" modified="2025-02-27T04:17:31.914753Z" visited="2025-02-27T04:17:31.914747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-27T04:17:31.914748Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-27%2009-18-25.png" added="2025-02-27T04:18:25.264345Z" modified="2025-02-27T04:18:25.264353Z" visited="2025-02-27T04:18:25.264347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-27T04:18:25.264347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-02-27%2009-19-06.png" added="2025-02-27T04:19:06.913432Z" modified="2025-02-27T04:19:06.913439Z" visited="2025-02-27T04:19:06.913434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-02-27T04:19:06.913434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/i222676_Lab6.png" added="2025-02-27T04:19:39.582400Z" modified="2025-02-27T04:19:39.619451Z" visited="2025-02-27T04:19:39.582402Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-02-27T04:19:39.582406Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-02-27T04:19:39.619437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-03-06%2008-54-31.png" added="2025-03-06T03:54:31.506406Z" modified="2025-03-06T03:54:31.506413Z" visited="2025-03-06T03:54:31.506408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-03-06T03:54:31.506408Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-03-06%2008-56-41.png" added="2025-03-06T03:56:41.766435Z" modified="2025-03-06T03:56:41.766444Z" visited="2025-03-06T03:56:41.766437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-03-06T03:56:41.766437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-03-06%2009-14-39.png" added="2025-03-06T04:14:39.730781Z" modified="2025-03-06T04:14:39.730793Z" visited="2025-03-06T04:14:39.730785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-03-06T04:14:39.730786Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Pictures/Screenshots/Screenshot%20from%202025-03-06%2009-27-19.png" added="2025-03-06T04:27:19.827754Z" modified="2025-03-06T04:27:19.827761Z" visited="2025-03-06T04:27:19.827755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-03-06T04:27:19.827756Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/miracle/Install%20React%20Commands.txt" added="2025-02-12T19:55:26.040903Z" modified="2025-02-24T07:20:08.231942Z" visited="2025-02-24T11:37:20.376840+05">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-24T07:20:08.231940Z" count="87"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/SCD_Lab4_Cmds.txt" added="2025-02-13T04:17:46.654789Z" modified="2025-02-24T07:20:08.231950Z" visited="2025-02-24T11:37:20.378017+05">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-24T07:20:08.231948Z" count="37"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2)/project2_handout-1/handout/src/smallfp.c" added="2025-02-24T06:37:22.823295Z" modified="2025-02-24T07:20:08.231975Z" visited="2025-02-24T11:37:20.330643+05">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-24T07:20:08.231971Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2)/project2_handout-1/handout/scripts/sample.muan" added="2025-02-24T06:38:32.852703Z" modified="2025-02-24T07:20:08.231901Z" visited="2025-02-24T11:38:29.547769+05">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-24T07:20:08.231896Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2)/project2_handout-1/handout/scripts/help.muan" added="2025-02-24T06:38:43.813525Z" modified="2025-02-24T07:20:08.231962Z" visited="2025-02-24T11:38:40.228845+05">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-24T07:20:08.231959Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/smallfp_fixed.c" added="2025-02-24T07:02:33.444856Z" modified="2025-02-24T07:20:08.231933Z" visited="2025-02-24T12:02:30.724844+05">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-24T07:20:08.231931Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/Makefile_fixed" added="2025-02-24T07:02:49.445824Z" modified="2025-02-24T07:20:08.231923Z" visited="2025-02-24T12:02:45.789345+05">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-24T07:20:08.231921Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/miracle/Downloads/project2_handout-1%20(2)/project2_handout-1/handout/Makefile" added="2025-02-24T07:03:13.446341Z" modified="2025-02-24T07:20:08.231915Z" visited="2025-02-24T12:03:10.308254+05">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-24T07:20:08.231912Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

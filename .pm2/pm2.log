@@ -1,0 +1,124 @@
+2025-02-27T09:14:32: PM2 log: ===============================================================================
+2025-02-27T09:14:32: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-02-27T09:14:32: PM2 log: Time                 : Thu Feb 27 2025 09:14:32 GMT+0500 (Pakistan Standard Time)
+2025-02-27T09:14:32: PM2 log: PM2 version          : 5.4.3
+2025-02-27T09:14:32: PM2 log: Node.js version      : 18.20.6
+2025-02-27T09:14:32: PM2 log: Current arch         : x64
+2025-02-27T09:14:32: PM2 log: PM2 home             : /home/miracle/.pm2
+2025-02-27T09:14:32: PM2 log: PM2 PID file         : /home/miracle/.pm2/pm2.pid
+2025-02-27T09:14:32: PM2 log: RPC socket file      : /home/miracle/.pm2/rpc.sock
+2025-02-27T09:14:32: PM2 log: BUS socket file      : /home/miracle/.pm2/pub.sock
+2025-02-27T09:14:32: PM2 log: Application log path : /home/miracle/.pm2/logs
+2025-02-27T09:14:32: PM2 log: Worker Interval      : 30000
+2025-02-27T09:14:32: PM2 log: Process dump file    : /home/miracle/.pm2/dump.pm2
+2025-02-27T09:14:32: PM2 log: Concurrent actions   : 2
+2025-02-27T09:14:32: PM2 log: SIGTERM timeout      : 1600
+2025-02-27T09:14:32: PM2 log: ===============================================================================
+2025-02-27T09:14:32: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:32: PM2 log: App [service_name:0] online
+2025-02-27T09:14:33: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:33: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:33: PM2 log: App [service_name:0] online
+2025-02-27T09:14:34: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:34: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:34: PM2 log: App [service_name:0] online
+2025-02-27T09:14:34: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:34: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:34: PM2 log: App [service_name:0] online
+2025-02-27T09:14:35: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:35: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:35: PM2 log: App [service_name:0] online
+2025-02-27T09:14:36: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:36: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:36: PM2 log: App [service_name:0] online
+2025-02-27T09:14:37: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:37: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:37: PM2 log: App [service_name:0] online
+2025-02-27T09:14:38: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:38: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:38: PM2 log: App [service_name:0] online
+2025-02-27T09:14:39: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:39: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:39: PM2 log: App [service_name:0] online
+2025-02-27T09:14:40: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:40: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:40: PM2 log: App [service_name:0] online
+2025-02-27T09:14:41: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:41: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:41: PM2 log: App [service_name:0] online
+2025-02-27T09:14:41: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:41: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:41: PM2 log: App [service_name:0] online
+2025-02-27T09:14:42: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:42: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:42: PM2 log: App [service_name:0] online
+2025-02-27T09:14:43: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:43: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:43: PM2 log: App [service_name:0] online
+2025-02-27T09:14:44: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:44: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:44: PM2 log: App [service_name:0] online
+2025-02-27T09:14:44: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:44: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:44: PM2 log: App [service_name:0] online
+2025-02-27T09:14:45: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:45: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:45: PM2 log: App [service_name:0] online
+2025-02-27T09:14:46: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:46: PM2 log: App [service_name:0] starting in -fork mode-
+2025-02-27T09:14:46: PM2 log: App [service_name:0] online
+2025-02-27T09:14:47: PM2 log: App [service_name:0] exited with code [1] via signal [SIGINT]
+2025-02-27T09:14:47: PM2 log: Script /home/miracle/Downloads/i222676_C_Lab2/Lab2/BookingService/server.js had too many unstable restarts (16). Stopped. "errored"
+2025-02-27T09:14:55: PM2 log: App [service_name:1] starting in -fork mode-
+2025-02-27T09:14:55: PM2 log: App [service_name:1] online
+2025-02-27T09:15:47: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:47: PM2 log: App [service_name:2] online
+2025-02-27T09:15:47: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:47: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:47: PM2 log: App [service_name:2] online
+2025-02-27T09:15:48: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:48: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:48: PM2 log: App [service_name:2] online
+2025-02-27T09:15:49: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:49: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:49: PM2 log: App [service_name:2] online
+2025-02-27T09:15:50: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:50: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:50: PM2 log: App [service_name:2] online
+2025-02-27T09:15:50: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:50: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:50: PM2 log: App [service_name:2] online
+2025-02-27T09:15:51: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:51: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:51: PM2 log: App [service_name:2] online
+2025-02-27T09:15:52: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:52: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:52: PM2 log: App [service_name:2] online
+2025-02-27T09:15:52: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:53: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:53: PM2 log: App [service_name:2] online
+2025-02-27T09:15:53: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:53: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:53: PM2 log: App [service_name:2] online
+2025-02-27T09:15:54: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:54: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:54: PM2 log: App [service_name:2] online
+2025-02-27T09:15:55: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:55: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:55: PM2 log: App [service_name:2] online
+2025-02-27T09:15:55: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:55: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:55: PM2 log: App [service_name:2] online
+2025-02-27T09:15:56: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:56: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:56: PM2 log: App [service_name:2] online
+2025-02-27T09:15:57: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:57: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:57: PM2 log: App [service_name:2] online
+2025-02-27T09:15:58: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:58: PM2 log: App [service_name:2] starting in -fork mode-
+2025-02-27T09:15:58: PM2 log: App [service_name:2] online
+2025-02-27T09:15:59: PM2 log: App [service_name:2] exited with code [1] via signal [SIGINT]
+2025-02-27T09:15:59: PM2 log: Script /home/miracle/Downloads/i222676_C_Lab2/Lab2/CarService/server.js had too many unstable restarts (16). Stopped. "errored"
+2025-02-27T09:16:05: PM2 log: App [service_name:3] starting in -fork mode-
+2025-02-27T09:16:05: PM2 log: App [service_name:3] online

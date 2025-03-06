@@ -1,0 +1,71 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v18.20.6
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/miracle/my-react-app/.npmrc
+5 silly config load:file:/home/miracle/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm install @testing-library/jest-dom@^5.14.1 @testing-library/react@^13.0.0 @testing-library/user-event@^13.2.1 web-vitals@^2.1.0
+8 verbose argv "install" "--no-audit" "--save" "@testing-library/jest-dom@^5.14.1" "@testing-library/react@^13.0.0" "@testing-library/user-event@^13.2.1" "web-vitals@^2.1.0"
+9 verbose logfile logs-max:10 dir:/home/miracle/.npm/_logs/2025-02-12T19_55_51_838Z-
+10 verbose logfile /home/miracle/.npm/_logs/2025-02-12T19_55_51_838Z-debug-0.log
+11 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly fetch manifest @testing-library/jest-dom@^5.14.1
+15 silly packumentCache full:https://registry.npmjs.org/@testing-library%2fjest-dom cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/@testing-library%2fjest-dom 898ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/@testing-library%2fjest-dom set size:undefined disposed:false
+18 silly fetch manifest @testing-library/react@^13.0.0
+19 silly packumentCache full:https://registry.npmjs.org/@testing-library%2freact cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@testing-library%2freact 241ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/@testing-library%2freact set size:undefined disposed:false
+22 silly fetch manifest react@^19.0.0
+23 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/react 36ms (cache hit)
+25 silly packumentCache full:https://registry.npmjs.org/react set size:5429264 disposed:false
+26 silly fetch manifest react@^18.0.0
+27 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+28 http fetch GET 200 https://registry.npmjs.org/react 60ms (cache hit)
+29 silly packumentCache full:https://registry.npmjs.org/react set size:5429264 disposed:false
+30 verbose stack Error: unable to resolve dependency tree
+30 verbose stack     at #failPeerConflict (/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:1360:25)
+30 verbose stack     at #loadPeerSet (/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:1326:33)
+30 verbose stack     at async #buildDepStep (/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:901:11)
+30 verbose stack     at async Arborist.buildIdealTree (/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:181:7)
+30 verbose stack     at async Promise.all (index 1)
+30 verbose stack     at async Arborist.reify (/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:131:5)
+30 verbose stack     at async Install.exec (/usr/lib/node_modules/npm/lib/commands/install.js:150:5)
+30 verbose stack     at async Npm.exec (/usr/lib/node_modules/npm/lib/npm.js:207:9)
+30 verbose stack     at async module.exports (/usr/lib/node_modules/npm/lib/cli/entry.js:74:5)
+31 error code ERESOLVE
+32 error ERESOLVE unable to resolve dependency tree
+33 error
+34 error While resolving: my-react-app@0.1.0
+34 error Found: react@19.0.0[2m[22m
+34 error [2mnode_modules/react[22m
+34 error   react@"^19.0.0" from the root project
+34 error
+34 error Could not resolve dependency:
+34 error [95mpeer[39m react@"^18.0.0" from @testing-library/react@13.4.0[2m[22m
+34 error [2mnode_modules/@testing-library/react[22m
+34 error   @testing-library/react@"^13.0.0" from the root project
+34 error
+34 error Fix the upstream dependency conflict, or retry
+34 error this command with --force or --legacy-peer-deps
+34 error to accept an incorrect (and potentially broken) dependency resolution.
+35 error
+35 error
+35 error For a full report see:
+35 error /home/miracle/.npm/_logs/2025-02-12T19_55_51_838Z-eresolve-report.txt
+36 silly unfinished npm timer reify 1739390152256
+37 silly unfinished npm timer reify:loadTrees 1739390152262
+38 silly unfinished npm timer idealTree:buildDeps 1739390153503
+39 silly unfinished npm timer idealTree:#root 1739390153503
+40 verbose cwd /home/miracle/my-react-app
+41 verbose os Linux 6.8.0-52-generic
+42 verbose node v18.20.6
+43 verbose npm  v10.8.2
+44 verbose exit 1
+45 verbose code 1
+46 error A complete log of this run can be found in: /home/miracle/.npm/_logs/2025-02-12T19_55_51_838Z-debug-0.log
